@@ -1,19 +1,7 @@
-# Cara Install python
+# Welcome to My Documentation
 Tempat penitipan agar tidak bolak balik lihat youtube
 
-![Gambar1](img/1.png)
-Search di google instal python
-
-![Gambar1](img/2.png)
-Disini kita pilih windows (rekomendasi install python 3.11.9 64-bit), sesuaikan denga pc masing-masing. 
-
-![Gambar1](img/3.png)
-Jangan lupa centang use admid dan add python
-
-![Gambar1](img/4.png)
-Cek instalasi di cmd dengan mengetik *python --version*
-
-
+![nnnn](https://media1.tenor.com/m/yqMpj81AcaMAAAAC/niqabi-butterfli-islam.gif)
 
 
 
