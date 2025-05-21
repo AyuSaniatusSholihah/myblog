@@ -25,3 +25,6 @@ Setelah enter, ketik code (spasi titik) *code .*<br><br>
 ![g](img/20.png)
 Setelah itu akan diarahkan ke vs code dan bisa edit. Untuk melihat preview download extention markdown
 
+![g](img/21.png)
+Setelah itu jangan lupa commit. dan profil github sudah di update
+
